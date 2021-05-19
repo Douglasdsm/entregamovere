@@ -1,0 +1,50 @@
+.titulo{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.tags{
+    border-radius: 3px;
+    font-size: 1.2em;
+    margin-right: 0px;
+    background-color:rgb(207, 207, 207);
+    padding: 5px 10px;
+    
+}
+.tags-data{
+    font-size: 1.2em;
+    padding: 5px 10px;
+    background-color: rgb(207, 207, 207);
+    border-radius: 3px;
+    margin-right: 0px;
+}
+.tags-valor{
+    border-radius: 3px;
+    font-size: 1.2em;
+    margin-right: 0px;
+    background-color:rgb(207, 207, 207);
+    padding: 5px 10px;
+    margin-left: 20px;
+}
+.tags-inserir{
+    margin-left: 20px;
+}
+.nome{
+    display:flex;
+    justify-content: flex-start;
+    
+    align-items: baseline;
+    
+}
+.valor-data-button{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-items: space-between;
+    
+    
+    
+}
+.tabela-red{
+    background-color: red;
+}
