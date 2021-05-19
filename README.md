@@ -48,3 +48,6 @@ Se tudo de certo abrira automaticamente uma aba no navegador com o seguinte ende
 
 http://localhost:3000/  Você pode esperar ou copiar e colar esse link agora é só aproveitar.
 
+arquivo txt como exigido esta na pastas routes   
+acesse backend/routes/users.txt
+
